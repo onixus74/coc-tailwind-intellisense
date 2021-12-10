@@ -15,6 +15,7 @@ export const DEFAULT_LANGUAGES = [
   'HTML (Eex)',
   'HTML (EEx)',
   'html-eex',
+  'eelixir',
   'jade',
   'leaf',
   'liquid',
